@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #000;
+}
+/* pad */
+
+div.pad {
+  width: 700px;
+  height: 570px;
+  margin: 100px auto 0 auto;
+  position: relative;
+}
+
+div.pad img {
+  width: 100%;
+  height: 100%;
+}
+
+div.pad button {
+  position: absolute;
+  top: 70px;
+  right: 50px;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+}
+
+div.pad button:last-of-type {
+  top: 140px;
+}
+div.pad button img {
+  width: 50px;
+  height: 50px;
+}
+
+/* container */
+
+div.container {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-around;
+  justify-content: space-around;;
+  width: 360px;
+  height: 360px;
+  position: absolute;
+  top: 50%;
+  left: 15%;
+  transform: translateY(-50%);
+}
+
+div.container div.cell {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  padding: 10px 0;
+  border-radius: 5px;
+}
+
+div.container div.key {
+  width: 40px;
+  height: 40px;
+  line-height: 36px;
+  text-align: center;
+  border: 2px solid #4A4B4B;
+  border-radius: 50%;
+}
+
+div.container div.title {
+  margin-top: 8px;
+  line-height: 1.1em; 
+  text-align: center
+}
+
+/* playing */
+div.container div.cell.blue.playing {
+  border: 1px solid #04efe1;
+  background-color: #245b58;
+  color: #0fefe1;
+}
+
+div.container div.cell.blue.playing div.key {
+  border: 2px solid #04efe1;
+}
+
+div.container div.cell.yellow.playing {
+  border: 1px solid #FBF56B;
+  background-color: #595629;
+  color: #FBF56B;
+}
+
+div.container div.cell.yellow.playing div.key {
+  border: 2px solid #FBF56B;
+}
+
+div.container div.cell.pink.playing {
+  border: 1px solid #FF7AF5;
+  background-color: #542b50;
+  color: #FF7AF5;
+}
+
+div.container div.cell.pink.playing div.key {
+  border: 2px solid #FF7AF5;
+}
+/* color */
+
+.blue {
+  background-color: #04efe1
+}
+
+.yellow {
+  background-color: #FBF56B;
+}
+
+.pink {
+  background-color: #FF7AF5;
+}
