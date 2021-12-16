@@ -16,6 +16,8 @@ https://user-images.githubusercontent.com/93975793/146339253-c1aba989-7d7e-4375-
 
 ## Release History
 
+2021-11-11 제작
+
 ## Meta
 
 Your Name – [hemish902@tistory.com](https://heimish902@tistory.com) - frontend_web@kakao.com
