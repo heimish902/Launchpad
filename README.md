@@ -20,6 +20,6 @@ https://user-images.githubusercontent.com/93975793/146339253-c1aba989-7d7e-4375-
 
 ## Meta
 
-Your Name – [hemish902@tistory.com](https://heimish902@tistory.com) - frontend_web@kakao.com
+Your Name – [heimish-web.tistory.com/](https://https://heimish-web.tistory.com/) - frontend_web@kakao.com
 
 [https://github.com/heimish902/github-link](https://github.com/heimish902/)
