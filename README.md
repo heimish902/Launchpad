@@ -38,7 +38,7 @@ npm test
 
 ## Meta
 
-Your Name – heimish902@tistory.com - frontend_web@kakao.com
+Your Name – [hemish902@tistory.com](https://heimish902@tistory.com) - frontend_web@kakao.com
 
 [https://github.com/heimish902/github-link](https://github.com/heimish902/)
 
