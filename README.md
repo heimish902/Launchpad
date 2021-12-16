@@ -1,27 +1,10 @@
-# Product Name
-> Short blurb about what your product does.
+# Launchpad
+> 키패드 입력으로 악기를 연주하는 사이트
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3" /> <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery" />
 
-One to two paragraph statement about your product and what it does.
 
 ![](header.png)
-
-## Installation
-
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
 
 ## Usage example
 
@@ -55,11 +38,9 @@ npm test
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Your Name – heimish902@tistory.com - frontend_web@kakao.com
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/heimish902/github-link](https://github.com/heimish902/)
 
 ## Contributing
 
