@@ -7,12 +7,8 @@
 ![](header.png)
 
 ## Usage example
-https://heimish902.github.io/Launchpad/index.html
 
 ![캡처](https://user-images.githubusercontent.com/93975793/146338440-1ff86d94-c68d-4d1e-a8c0-7bf3f35d192b.PNG)
-
-
-https://user-images.githubusercontent.com/93975793/146339253-c1aba989-7d7e-4375-84a0-21fcddfb3f23.mp4
 
 
 ## Release History
